@@ -1,1 +1,3 @@
 toto je subor ktory chcem dat do gitu
+
+a teraz sem nieco pridam....
